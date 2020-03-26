@@ -1,6 +1,6 @@
 # word_count
 Functions that render the frequencies with which words occur in any text file 
-
+*The problem statement which motivates this program has been taken from Google's python class*
 ## How to Use and Syntax
 1. download the file wordcount.py in the same directory as your text file
 2. open terminal and use command
